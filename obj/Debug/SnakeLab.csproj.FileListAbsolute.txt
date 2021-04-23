@@ -1,0 +1,11 @@
+C:\С#\SnakeLab\bin\Debug\SnakeLab.exe.config
+C:\С#\SnakeLab\bin\Debug\SnakeLab.exe
+C:\С#\SnakeLab\bin\Debug\SnakeLab.pdb
+C:\С#\SnakeLab\obj\Debug\SnakeLab.csprojAssemblyReference.cache
+C:\С#\SnakeLab\obj\Debug\SnakeLab.Form1.resources
+C:\С#\SnakeLab\obj\Debug\SnakeLab.Properties.Resources.resources
+C:\С#\SnakeLab\obj\Debug\SnakeLab.csproj.GenerateResource.cache
+C:\С#\SnakeLab\obj\Debug\SnakeLab.csproj.CoreCompileInputs.cache
+C:\С#\SnakeLab\obj\Debug\SnakeLab.exe
+C:\С#\SnakeLab\obj\Debug\SnakeLab.pdb
+C:\С#\SnakeLab\obj\Debug\SnakeLab.SaveRecord.resources
